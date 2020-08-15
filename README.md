@@ -9,8 +9,29 @@
   </samp>
 </p>
 
+<p align='center'>
+  Technologies I work with:
+  <br />
+  <img src='https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/html.svg'/>
+  <img src='https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/css3.svg'/>
+  <img src='https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/js.svg'/>
+  <img src='https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/frameworks/nodejs.svg'/>
+  <img src='https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/frameworks/react.svg'/>
+  <img src='https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/csharp.svg'/>
+  <img src='https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/services/aws.svg'/>
+  <img src='https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/services/gcp.svg'/>
+</p>
+
+### - I'm currently...
+
+- Imporoving my React Native Skills.
+- Working on some freelance work.
+- Learning GraphQL.
+
+---
+
 <p align="center"> 
-  <i> Let's connect and chat! :incoming_envelope: </i>
+  <samp> Let's connect and chat! :incoming_envelope: </samp>
 </p>
 
 <p align='center'>
