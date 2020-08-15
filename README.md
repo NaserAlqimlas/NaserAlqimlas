@@ -24,8 +24,8 @@
 
 ### I'm currently...
 
-- Imporoving my React Native Skills.
 - Working on some freelance work.
+- Improving my React Native Skills.
 - Learning GraphQL.
 
 ---
