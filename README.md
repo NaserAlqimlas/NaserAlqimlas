@@ -22,6 +22,10 @@
   <img src='https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/services/gcp.svg'/>
 </p>
 
+### My previous exprience includes
+- Full Stack Developer @ Dialed
+- BA in CS @ CU Boulder
+
 ### I'm currently...
 
 - Working on some freelance work.
