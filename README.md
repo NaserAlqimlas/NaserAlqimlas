@@ -1,16 +1,26 @@
-### Hi there 👋
+<p align="center">
+  <img src="https://miro.medium.com/max/1400/1*6-xhHQ66MVyfuWw5OjuAlw.gif" width="30%">
+  <br />
+  <samp>
+    I'm Naser Alqimlas :wave:
+    <br />
+    Web :globe_with_meridians: and Mobile :iphone: developer!
+    <br />
+  </samp>
+</p>
 
-<!--
-**NaserAlqimlas/NaserAlqimlas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center"> 
+  <i> Let's connect and chat! :incoming_envelope: </i>
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align='center'>
+  <a href='https://www.linkedin.com/in/naseralqimlas/'>
+    <img src='https://img.shields.io/badge/-nalqimlas-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/naseralqimlas/'/>
+  </a>
+  <a href='https://twitter.com/nsalqimlas'>
+    <img src='https://img.shields.io/badge/-@nsalqimlas-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/nsalqimlas'/>
+  </a>
+  <a href='mailto:naser.alqimlas@gmail.com'>
+    <img src='https://img.shields.io/badge/-naser.alqimlas-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:naser.alqimlas@gmail.com'/>
+  </a>
+</p>
