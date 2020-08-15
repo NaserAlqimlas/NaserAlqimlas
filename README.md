@@ -22,7 +22,7 @@
   <img src='https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/services/gcp.svg'/>
 </p>
 
-### - I'm currently...
+### I'm currently...
 
 - Imporoving my React Native Skills.
 - Working on some freelance work.
