@@ -41,7 +41,7 @@
   <a href='https://www.linkedin.com/in/naseralqimlas/'>
     <img src='https://img.shields.io/badge/-naseralqimlas-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/naseralqimlas/'/>
   </a>
-  <a href='https://twitter.com/nsalqimlas'>
+  <a href='https://twitter.com/nasseralqimlas'>
     <img src='https://img.shields.io/badge/-@nsalqimlas-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/nsalqimlas'/>
   </a>
   <a href='mailto:naser.alqimlas@gmail.com'>
