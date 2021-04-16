@@ -22,15 +22,14 @@
   <img src='https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/services/gcp.svg'/>
 </p>
 
-### My previous exprience includes
+### My exprience includes
+- Full Stack Developer @ Boubyan Bank
 - Full Stack Developer @ Dialed
-- BA in CS @ CU Boulder
 
 ### I'm currently...
 
 - Working on some freelance projects.
-- Improving my React Native Skills.
-- Learning GraphQL.
+- Learning ML.
 
 ---
 
