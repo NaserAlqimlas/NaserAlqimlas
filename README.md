@@ -28,7 +28,6 @@
 ### I'm currently...
 
 - Working on some freelance projects.
-- Learning ML.
 
 ---
 
