@@ -22,6 +22,7 @@
 </p>
 
 ### My exprience includes
+- CTO @ Dawraty
 - Full Stack Developer @ Boubyan Bank
 - Full Stack Developer @ Dialed
 
